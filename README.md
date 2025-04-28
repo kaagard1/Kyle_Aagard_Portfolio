@@ -6,6 +6,7 @@ This project focused on identifying potential customers who lack sufficient cred
 For this exploratory data analysis notebook, I focused on the application and bureau datasets. In the application data, a person’s education level appeared to be a strong predictor of default. The CREDIT_ACTIVE variable from the bureau data also showed potential for improving model performance.
 
 
+
 Home Credit Group Workbook: (https://github.com/kaagard1/Practice-Project)
 
 For group portion of the project, I cleaned and merged the bureau and bureau_balance files into a single dataframe. Additionally, I researched Home Credit’s customer base and business practices in the Philippines, which served as the basis for our revenue projections.

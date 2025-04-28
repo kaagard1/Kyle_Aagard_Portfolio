@@ -9,7 +9,7 @@ For this exploratory data analysis notebook, I focused on the application and bu
 
 
 
-Home Credit Group Workbook: (https://github.com/kaagard1/Practice-Project)
+[Home Credit Group Workbook](https://github.com/kaagard1/Practice-Project)
 
 For group portion of the project, I cleaned and merged the bureau and bureau_balance files into a single dataframe. Additionally, I researched Home Credit’s customer base and business practices in the Philippines, which served as the basis for our revenue projections.
 Finally, I created the gradient boosting model that we selected as our final solution. It outperformed all other candidate models. This was my first experience working with gradient boosting and the XGBoost library. As a result I learned about how to prevent overfitting by adjusting parameters in the model such as the learning rate, depth and early stopping. Our final model combined the application, bureau, and bureau_balance datasets, resulting in a 29% improvement in the positive prediction rate. This enhancement could enable Home Credit to expand its lending population by 13.6%, potentially increasing annual revenue by $61 million.

@@ -1,6 +1,6 @@
 Data Science Portfolio:
 
-Project 1: Home Credit Kaggle Competion: 
+**Project 1: Home Credit Kaggle Competion:** 
 
 Individual Notebook: (https://github.com/kaagard1/Practice-Project)
 

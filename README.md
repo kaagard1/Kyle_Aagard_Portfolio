@@ -5,8 +5,6 @@ Project 1: Home Credit Kaggle Competion: (https://github.com/kaagard1/Practice-P
 This project focused on identifying potential customers who lack sufficient credit history for traditional credit approval but are at low risk of defaulting on a loan. The objective was to build a predictive model that improves our ability to accurately distinguish between those who will and will not default.
 For this exploratory data analysis notebook, I focused on the application and bureau datasets. In the application data, a person’s education level appeared to be a strong predictor of default. The CREDIT_ACTIVE variable from the bureau data also showed potential for improving model performance.
 
-![](https://raw.githubusercontent.com/kaagard1/Kyle_Aagard_Portfolio/main/images/education_plot.png)
-
 
 Home Credit Group Workbook: (https://github.com/kaagard1/Practice-Project)
 

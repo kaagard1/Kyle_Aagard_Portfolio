@@ -1,4 +1,4 @@
-Data Science Portfolio:
+**Data Science Portfolio:**
 
 **Project 1: Home Credit Kaggle Competion:** 
 

@@ -1,4 +1,3 @@
-# Kyle_Aagard_Portfolio
 Data Science Portfolio
 
 Project 1: Home Credit Kaggle Competion: (https://github.com/kaagard1/Practice-Project)
